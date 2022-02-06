@@ -5,5 +5,6 @@
 4. reversing the enter value by using while loop.
 5. finding factorial by using function.
 6. a pattern of pascal right triangle by using function.
-7. 
+7. sum of each subarray of the given array.
+8. 
 

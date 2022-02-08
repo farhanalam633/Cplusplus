@@ -6,5 +6,6 @@
 5. finding factorial by using function.
 6. a pattern of pascal right triangle by using function.
 7. sum of each subarray of the given array.
-8. 
+8. spiral order of a matrix using an array with while loop.
+9. 
 
